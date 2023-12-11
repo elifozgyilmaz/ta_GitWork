@@ -1,2 +1,2 @@
 # ta_GitWork
-ders 1 odev
+ders2 odev1
